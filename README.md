@@ -6,6 +6,16 @@ as a share of both electricity and total primary energy.
 
 **▶ [View the live report](https://app.powerbi.com/view?r=eyJrIjoiOTM2OTk1NDMtZTNkNy00OTlhLTljOTQtMjYzNDI3ZmZkZDQ0IiwidCI6IjdjNjRmODJlLWZmODMtNGEzMi1iOThiLWZkZDZlMjFlOWEyYyJ9)** — no Power BI licence needed.
 
+**▶ [Exploratory analysis notebook](https://colab.research.google.com/drive/1ZxK-UVSP3UDvCSw4VzRKBI-EBaoQjafv)** — pandas / Seaborn / Plotly EDA over the source series.
+
+## Credits
+
+A two-person project:
+
+- **Data analysis** — data wrangling, null profiling, per-source aggregation and the
+  exploratory analysis in the Colab notebook — Raghav Singh ([@Cloverag](https://github.com/Cloverag))
+- **Power BI report** — the 9-page report build and publish — Anurag Nayak
+
 ## Report pages
 
 - Global Renewable Energy Overview
